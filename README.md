@@ -22,4 +22,11 @@
    - Oldpeak: oldpeak = ST [Numeric value measured in depression]
    - ST_Slope: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
    - HeartDisease: output class [1: heart disease, 0: Normal]
+
+ ## Tools Used
+ - Python
+ - Numpy
+ - Pandas
+ - Seaborn
+ - Jupyter Notebook
    
